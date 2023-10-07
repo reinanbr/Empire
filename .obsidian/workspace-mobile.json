@@ -47,8 +47,12 @@
             "id": "14898fd9e1a6b1f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rotina.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "236f303079e2b69e"
           }
@@ -65,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Produção.md",
+                "file": "Rotina.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,6 +165,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Rotina.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,6 +182,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Rotina.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -187,7 +193,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Rotina.md"
+          }
         }
       }
     ],
