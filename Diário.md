@@ -1,0 +1,5 @@
+- 08/10 
+    - 16:21
+        -> Reinan said: "programming is hard", "a little object, is hard". But, programming is it. Programming is not easy. Never! Integrates by part's is more easy of your work now (communication server PHP -> JS). But, you need make it! It's necessary for you and for your future.
+    - 16:24
+        -> In hard mode, I need going make it. I need. Never stop your work in coding. Never stop. Stop in the end. Just in the end.

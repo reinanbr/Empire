@@ -1,18 +1,14 @@
 ## seg - sex
-- 4h -> acordar -> olhar os projetos comer algo -> treinar
-- 4:50h -> banho -> tomar café 
+- 4h -> acordar -> olhar os projetos -> comer algo -> treinar
+- 4:50h -> banho -> tomar café -> escovar os dentes 
 - 5:30h -> se arrumar -> ir trabalhar -> treinar a voz
-.
-.
-.
-- 12h -> treinar a voz | almoçar
-.
-.
-.
+- 
+- 12h -> treinar a voz | almoçar -> escovar os dentes
+- 
 - 18h -> treinar a voz -> publicações do dia
-.
-- 19h -> jantar 
-.
+- 
+- 19h -> jantar -> escovar os dentes 
+- 
 - 20h -> trabalhos do dia
 - 23h -> dormir
 
@@ -37,7 +33,7 @@
 - Qua -> sci video
 - Qui -> all memes
 - Sex -> trecho de livros | Dev artigos 
-- Sab -> meme edit video 
+- Sab -> meme edit video | Simulation's
 - Dom -> math.phy vídeo proof | Sci Artigos 
 ##### tempo vago
 - Newsletter's + vídeos 

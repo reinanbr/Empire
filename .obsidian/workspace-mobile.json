@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rotina.md",
+                "file": "Diário.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rotina.md",
+                "file": "Diário.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rotina.md",
+            "file": "Diário.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rotina.md",
+            "file": "Diário.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -194,7 +194,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rotina.md"
+            "file": "Diário.md"
           }
         }
       }
@@ -213,8 +213,11 @@
   },
   "active": "14898fd9e1a6b1f4",
   "lastOpenFiles": [
-    "Produção.md",
+    "Diário.md",
+    "Leis.md",
     "Rotina.md",
+    "Produzir - Acadêmico.md",
+    "Produção.md",
     "Evolução.md",
     "Produzir - Mundo Acadêmico.md",
     "Code's.md",
